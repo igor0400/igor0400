@@ -1,6 +1,6 @@
 ### Hi! I coder from russia 👨‍💻
 
-![react/redux](https://img.shields.io/badge/-react/redux-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![react/redux](https://img.shields.io/badge/-react/redux-090909?style=for-the-badge&logo=reactColor=6296CC)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
