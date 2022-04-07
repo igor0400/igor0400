@@ -5,6 +5,8 @@
 ![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)
+![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 
 ### Links:
 
