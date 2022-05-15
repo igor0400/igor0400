@@ -1,6 +1,7 @@
 ### Hi! I`m front-end developer from russia 👨‍💻
 
-![react/redux](https://img.shields.io/badge/-react/redux-090909?style=for-the-badge&logo=react)
+![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
+![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
