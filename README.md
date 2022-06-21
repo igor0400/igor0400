@@ -1,4 +1,4 @@
-### Hi! I`m front-end developer from russia 👨‍💻
+### Hi! I`m frontend developer from russia 👨‍💻
 
 ![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
