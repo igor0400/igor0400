@@ -3,7 +3,7 @@
 [![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)](https://github.com/igor0400)
 [![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)](https://github.com/igor0400)
 [![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://github.com/igor0400)
-[![Nest.js](https://img.shields.io/badge/-nest-090909?style=for-the-badge&logo=nest)](https://github.com/igor0400)
+[![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)](https://github.com/igor0400)
 [![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://github.com/igor0400)
 [![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)](https://github.com/igor0400)
 [![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://github.com/igor0400)
