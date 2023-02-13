@@ -21,11 +21,23 @@
 
 ##
 
- <div>
+<!--  <div>
   <a href="https://github.com/igor0400">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igor0400&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor0400&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
  ##
  
