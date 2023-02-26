@@ -2,28 +2,26 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
-[![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)]([https://github.com/igor0400](https://reactjs.org))
-[![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)](https://github.com/igor0400)
-[![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)](https://github.com/igor0400)
-[![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node)](https://github.com/igor0400)
-[![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)](https://github.com/igor0400)
-[![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://github.com/igor0400)
-[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)](https://github.com/igor0400)
-[![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)](https://github.com/igor0400)
+[![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)](https://reactjs.org)
+[![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)](https://redux.js.org)
+[![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)](https://nestjs.com)
+[![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node)](https://nodejs.org/en)
+[![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)](https://sass-lang.com)
+[![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://ru.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)](https://ru.wikipedia.org/wiki/CSS)
+[![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)](https://gulpjs.com)
 
-[![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://github.com/igor0400)
+[![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://www.python.org)
 
-[![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://github.com/igor0400)
-[![docker-compose](https://img.shields.io/badge/-docker-compose-090909?style=for-the-badge&logo=docker-compose)](https://github.com/igor0400)
-[![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)](https://github.com/igor0400)
-[![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)](https://github.com/igor0400)
-[![firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase)](https://github.com/igor0400)
-[![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)](https://github.com/igor0400)
+[![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://www.docker.com)
+[![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)](https://redis.io)
+[![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)](https://www.mysql.com)
+[![firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase)](https://firebase.google.com)
+[![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)](https://git-scm.com)
 
 ### Links:
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kgfvjjjfrcj)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://google.com)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ulanuss)
 
 ##
