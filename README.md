@@ -1,6 +1,6 @@
 ### Hi! I`m web-developer from russia 👨‍💻
 
-[![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://github.com/igor0400)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://github.com/igor0400)
 [![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://github.com/igor0400)
 [![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)](https://github.com/igor0400)
 [![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)](https://github.com/igor0400)
@@ -10,10 +10,14 @@
 [![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://github.com/igor0400)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)](https://github.com/igor0400)
 [![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)](https://github.com/igor0400)
-[![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)](https://github.com/igor0400)
-[![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://github.com/igor0400)
 
 [![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://github.com/igor0400)
+
+[![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://github.com/igor0400)
+[![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)](https://github.com/igor0400)
+[![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)](https://github.com/igor0400)
+[![firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase)](https://github.com/igor0400)
+[![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)](https://github.com/igor0400)
 
 ### Links:
 
