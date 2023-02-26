@@ -14,6 +14,7 @@
 [![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://github.com/igor0400)
 
 [![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://github.com/igor0400)
+[![docker-compose](https://img.shields.io/badge/-docker-compose-090909?style=for-the-badge&logo=docker-compose)](https://github.com/igor0400)
 [![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)](https://github.com/igor0400)
 [![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)](https://github.com/igor0400)
 [![firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase)](https://github.com/igor0400)
