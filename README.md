@@ -1,8 +1,8 @@
 ### Hi! I`m web-developer from russia 👨‍💻
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://github.com/igor0400)
-[![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://github.com/igor0400)
-[![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)](https://github.com/igor0400)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://www.javascript.com)
+[![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+[![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)]([https://github.com/igor0400](https://reactjs.org))
 [![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)](https://github.com/igor0400)
 [![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)](https://github.com/igor0400)
 [![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node)](https://github.com/igor0400)
