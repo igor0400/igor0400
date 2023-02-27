@@ -1,4 +1,4 @@
-### Hi! I`m web-developer from russia 👨‍💻
+### Hi! I`m web-developer 👨‍💻
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
