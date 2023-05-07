@@ -10,7 +10,6 @@
 [![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)](https://sass-lang.com)
 [![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://ru.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)](https://ru.wikipedia.org/wiki/CSS)
-[![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)](https://gulpjs.com)
 
 [![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://www.python.org)
 
