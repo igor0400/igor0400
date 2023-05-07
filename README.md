@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 [![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)](https://reactjs.org)
 [![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)](https://redux.js.org)
-[![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next)](https://nextjs.com)
+[![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)](https://nextjs.com)
 [![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)](https://nestjs.com)
 [![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/-express.js-090909?style=for-the-badge&logo=express)](https://expressjs.com)
