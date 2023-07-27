@@ -29,6 +29,7 @@
 [![kafka](https://img.shields.io/badge/-kafka-090909?style=for-the-badge&logo=apache-kafka)](https://kafka.apache.org)
 [![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)](https://git-scm.com)
 
+#### Other:
 [![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://www.python.org)
 
 ### Links:
