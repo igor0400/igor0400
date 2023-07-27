@@ -14,11 +14,15 @@
 
 [![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://www.python.org)
 
-[![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://www.docker.com)
 [![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)](https://redis.io)
 [![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)](https://www.mysql.com)
+[![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)](https://www.postgresql.org)
+[![mongodb](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)](https://mongodb.com)
 [![firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase)](https://firebase.google.com)
 [![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)](https://git-scm.com)
+
+[![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://www.docker.com)
+[![kubernetes](https://img.shields.io/badge/-kubernetes-090909?style=for-the-badge&logo=kubernetes)](https://kubernetes.io)
 
 ### Links:
 
