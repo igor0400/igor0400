@@ -1,16 +1,21 @@
 ### Hi! I`m web-developer 👨‍💻
 
+#### General:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+
+#### Frontend:
 [![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)](https://reactjs.org)
 [![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)](https://redux.js.org)
 [![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)](https://nextjs.com)
-[![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)](https://nestjs.com)
-[![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
-[![Express.js](https://img.shields.io/badge/-express.js-090909?style=for-the-badge&logo=express)](https://expressjs.com)
 [![scss/sass](https://img.shields.io/badge/-scss/sass-090909?style=for-the-badge&logo=sass)](https://sass-lang.com)
 [![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://ru.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)](https://ru.wikipedia.org/wiki/CSS)
+
+#### Backend:
+[![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)](https://nestjs.com)
+[![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
+[![Express.js](https://img.shields.io/badge/-express.js-090909?style=for-the-badge&logo=express)](https://expressjs.com)
 
 [![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)](https://redis.io)
 [![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)](https://www.mysql.com)
