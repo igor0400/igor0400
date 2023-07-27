@@ -20,6 +20,8 @@
 
 [![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)](https://www.docker.com)
 [![kubernetes](https://img.shields.io/badge/-kubernetes-090909?style=for-the-badge&logo=kubernetes)](https://kubernetes.io)
+[![rabbitmq](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq)](https://www.rabbitmq.com)
+[![kafka](https://img.shields.io/badge/-kafka-090909?style=for-the-badge&logo=kafka)](https://kafka.apache.org)
 [![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)](https://git-scm.com)
 
 [![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://www.python.org)
