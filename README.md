@@ -1,4 +1,4 @@
-### Hi! I`m web-developer 👨‍💻
+### Hi! I`m frontend/backend developer 👨‍💻
 
 #### General:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://www.javascript.com)
