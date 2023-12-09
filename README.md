@@ -39,7 +39,6 @@
 
 ### Progects:
 
-⚙️ [EntServices](https://t.me/EntServicesBot) - telegram bot with useful services for work
 ⚙️ [EntServices](https://t.me/EntServicesBot) - Telegram bot with useful services for work
 
 ##
