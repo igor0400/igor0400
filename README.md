@@ -32,7 +32,7 @@
 #### Other:
 [![PYTHON](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://www.python.org)
 [![prismarinejs](https://img.shields.io/badge/-prismarinejs-090909?style=for-the-badge&logo=prismarinejs)](https://prismarinejs.github.io)
-[![mineflayer](https://img.shields.io/badge/-mineflayerjs-090909?style=for-the-badge&logo=mineflayerjs)](https://prismarinejs.github.io/mineflayer)
+[![mineflayer](https://img.shields.io/badge/-mineflayer-090909?style=for-the-badge&logo=mineflayer)](https://prismarinejs.github.io/mineflayer)
 
 ### Links:
 
