@@ -41,7 +41,8 @@
 
 ### Projects:
 
-⚙️ [TaTa](https://t.me/tatagobot) - Telegram bot to plan personal, or collaborative events and tasks
+🗓 [TaTa](https://t.me/tatagobot) - Telegram bot to plan personal, or collaborative events and tasks
+
 ⚙️ [EntServices](https://t.me/EntServicesBot) - Telegram bot with useful services for work
 
 ##
